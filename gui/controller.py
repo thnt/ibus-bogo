@@ -26,9 +26,10 @@ import os
 import subprocess
 import logging
 import json
-from PyQt4.QtCore import *
-from PyQt4.QtGui import *
-from PyQt4 import uic
+from PyQt5.QtCore import *
+from PyQt5.QtGui import *
+from PyQt5 import uic
+from PyQt5.QtWidgets import QMainWindow, QApplication, QAbstractItemView
 from gi.repository import Notify
 import charset_converter
 

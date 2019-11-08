@@ -1,7 +1,3 @@
-from PyQt4.QtCore import *
-from PyQt4.QtGui import *
-
-
 UNIKEY_HEADER = 'DO NOT DELETE THIS LINE*** version=1 ***'
 
 
